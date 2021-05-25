@@ -2,7 +2,7 @@
 building AI course project
 ## Summary
 It is iritating to have a piece of a melody or a song on you mind and not knowing the title ,the artist, date of release etc.
-I want to make an AI based recognition system to find the rest of the song or melody. You just tap on the microfon (beat), or sing (or just make some noise that remind you of that song if you can not remember the words) and the AI method comes up whith the song or songs that resembles best.
+I want to make an AI based recognition system that finds the rest of the song or melody. You just tap on the microfon (beat), or sing (or just make some noise that remind you of that song if you can not remember the words) and the AI method comes up whith the song or songs that resembles best.
 ## Background
 having a piece of a song in ones head whithout knowing where it comes from is a very common little problem that many people have from time to time, so why dont solve it.
 ## How is it used?
