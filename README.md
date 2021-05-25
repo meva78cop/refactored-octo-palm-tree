@@ -9,8 +9,8 @@ having a piece of a song in ones head whithout knowing where it comes from is a 
 An example, lets say I have speculated the whole week about a melody: na na na na  nanana, I tried to ask people what is the name of the song but nobody can help. So I open my smartphone and sing na na na na nanana, and it imidately come up with a solution. Its from 'the ghostbusters'.
 ## Data sources and AI methods
 I would ofcourse need a big library with music. Then I would compare the music i was thiking about with a song from the library. Fitst from the beginning, then I would move my song one tenth of a second forward and compare again then do it again and again until the song I was thinking about would end at the same time as the song in the library. The I would compare my song the same way to every song in my library.
-The I would use the nearest nighbour qualifier method to choose the song that fit best.
+The I would use the nearest nighbour qualifier method to choose the song that fit best. After gathering data from users I could use them too in my algorithm, in a similar way like a content recomendation system.
 ## What next?
-Maybe and only maybe it coud become part of a big tech company like facebook or google instead of just be an independent app. 
+Maybe and only maybe it coud become part of a big tech company like facebook or google instead of just be an independent app. google f.eks. has many other functions other than beeing a search engine, f.eks. showing how to pronaunce words.
 ## Acknowledgments
 * building AI course 
